@@ -1,2 +1,1 @@
-# bash-lessons
-Bash scripts and related tasks
+Bash scripts (examples) and related tasks
